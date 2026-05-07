@@ -1,2 +1,2 @@
-# GL3DGS
-A cross platform renderer for Gaussian Splatting using CPP and OpenGL
+# Vulkan-3DGS-Renderer
+A cross platform renderer for Gaussian Splatting using CPP and Vulkan
